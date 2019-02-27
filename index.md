@@ -1,4 +1,5 @@
-## emmmm  这就是我的...   emmmm
+# emmmm  这就是我的...   emmmm
+emmm既然我有了我的网站，那么，我也要写也点什么，现是电脑课，2019.2.27
 You can use the [editor on GitHub](https://github.com/candyroom/C-project1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
